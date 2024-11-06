@@ -1,0 +1,912 @@
+{
+    "animal10.jpg": [
+        " animal",
+        "badger",
+        "floor",
+        "fur",
+        "grass",
+        "image",
+        "photo"
+    ],
+    "animal11.jpg": [
+        " animal",
+        "drawing",
+        "illustration",
+        "image",
+        "raccoon"
+    ],
+    "animal15.jpg": [
+        " animal",
+        "koala",
+        "screenshot",
+        "teddy"
+    ],
+    "animal2.jpg": [
+        " close-up",
+        "green",
+        "iguana",
+        "lizard",
+        "log",
+        "photo",
+        "reptile",
+        "stone",
+        "sit"
+    ],
+    "animal22.jpg": [
+        " animal",
+        "fruit",
+        "hay",
+        "image",
+        "orange",
+        "screenshot",
+        "sheep"
+    ],
+    "animal25.jpg": [
+        " animal",
+        "cat",
+        "dog",
+        "person",
+        "paw",
+        "pet",
+        "photo",
+        "tabby"
+    ],
+    "animal30.jpg": [
+        " bed",
+        "cat",
+        "couple",
+        "sit"
+    ],
+    "animal35.png": [
+        " animal",
+        "dog",
+        "face",
+        "food",
+        "pet",
+        "photo",
+        "picture",
+        "selfie"
+    ],
+    "animal36.png": [
+        " animal",
+        "brown",
+        "carpet",
+        "chair",
+        "dog",
+        "floor",
+        "mat",
+        "stand",
+        "stool",
+        "wood floor"
+    ],
+    "animal4.jpg": [
+        " animal",
+        "brush",
+        "dry",
+        "field",
+        "grass",
+        "greet",
+        "savanna",
+        "stand",
+        "zebra"
+    ],
+    "animal51.jpg": [
+        " text message"
+    ],
+    "animal52.jpg": [
+        " animal",
+        "couple",
+        "egg",
+        "text message"
+    ],
+    "animal53.jpg": [
+        " animal",
+        "bite",
+        "cat",
+        "computer screen",
+        "food",
+        "image",
+        "paw",
+        "pet",
+        "stuff",
+        "toy"
+    ],
+    "animal54.jpg": [
+        " animal",
+        "cheetah",
+        "image",
+        "pet",
+        "picture",
+        "screenshot",
+        "tiger"
+    ],
+    "animal56.jpg": [
+        " animal",
+        "meerkat",
+        "stand"
+    ],
+    "animal57.jpg": [
+        " dog",
+        "image",
+        "photo",
+        "sit",
+        "stool"
+    ],
+    "animal58.jpg": [
+        " animal",
+        "black",
+        "branch",
+        "catamount",
+        "jaguar",
+        "lay",
+        "leopard",
+        "tree",
+        "tree branch"
+    ],
+    "animal59.png": [
+        " animal",
+        "dress",
+        "floor",
+        "gold",
+        "lion",
+        "mane",
+        "sculpture",
+        "wear",
+        "wig"
+    ],
+    "animal60.png": [
+        " animal",
+        "car",
+        "car seat",
+        "dashboard",
+        "hamster",
+        "mouse",
+        "pet",
+        "seat",
+        "seat belt",
+        "sit",
+        "stuff",
+        "teddy"
+    ],
+    "animal61.png": [
+        " animal",
+        "chair",
+        "dog",
+        "floor",
+        "image",
+        "pet",
+        "play",
+        "stool",
+        "video"
+    ],
+    "animal62.png": [
+        " animal",
+        "chair",
+        "duck",
+        "folding chair",
+        "photo",
+        "pillow",
+        "stool",
+        "stuff",
+        "toy"
+    ],
+    "animal63.png": [
+        " animal",
+        "trumpet",
+        "mane",
+        "stand",
+        "tail",
+        "unicorn",
+        "white"
+    ],
+    "animal64.png": [
+        " animal",
+        "ball",
+        "dog",
+        "floor",
+        "image",
+        "mouth",
+        "owl",
+        "photo",
+        "picture",
+        "sculpture",
+        "toy"
+    ],
+    "animal8.jpg": [
+        " animal",
+        "bed",
+        "blanket",
+        "dog",
+        "image",
+        "lay",
+        "paw",
+        "pillow",
+        "white"
+    ],
+    "animal_new6.jpg": [
+        " animal",
+        "bed",
+        "cat",
+        "couch",
+        "pad",
+        "floor",
+        "lay",
+        "pillow",
+        "raccoon"
+    ],
+    "fahsion5.jpg": [
+        " boy",
+        "gray",
+        "khaki",
+        "man",
+        "pant",
+        "pants",
+        "pocket",
+        "school uniform",
+        "shirt",
+        "stand",
+        "sweater",
+        "wear"
+    ],
+    "fashion.jpg": [
+        " button",
+        "hanger",
+        "website",
+        "pattern",
+        "print",
+        "shirt"
+    ],
+    "fashion1.png": [
+        " trench coat",
+        "beverage",
+        "brown",
+        "catch",
+        "coffee",
+        "coffee cup",
+        "dress",
+        "drink",
+        "garage door",
+        "goggles",
+        "green",
+        "jacket",
+        "pants",
+        "pavement",
+        "sip",
+        "stand",
+        "sunglasses",
+        "wear",
+        "woman"
+    ],
+    "fashion12.png": [
+        " bed",
+        "boot",
+        "business suit",
+        "dress",
+        "gray",
+        "photo",
+        "selfie",
+        "take",
+        "woman"
+    ],
+    "fashion13.png": [
+        " couple",
+        "girl",
+        "person",
+        "man",
+        "selfie",
+        "short",
+        "stand",
+        "sweatshirt"
+    ],
+    "fashion14.png": [
+        " trench coat",
+        "black",
+        "coat",
+        "jacket",
+        "man"
+    ],
+    "fashion16.png": [
+        " website",
+        "shoe",
+        "white"
+    ],
+    "fashion17.png": [
+        " briefcase",
+        "business suit",
+        "person",
+        "jacket",
+        "man",
+        "stand",
+        "suit",
+        "tie",
+        "wear"
+    ],
+    "fashion18.png": [
+        " trench coat",
+        "baseball hat",
+        "person",
+        "jacket",
+        "man",
+        "stand",
+        "sweatshirt",
+        "wear",
+        "white"
+    ],
+    "fashion19.png": [
+        " boy",
+        "gray",
+        "person",
+        "jacket",
+        "jeans",
+        "man",
+        "selfie",
+        "shirt",
+        "stand",
+        "wear"
+    ],
+    "fashion2.jpg": [
+        " bag",
+        "doll",
+        "dress",
+        "orange",
+        "sandal",
+        "wear",
+        "woman"
+    ],
+    "fashion2.png": [
+        " carpet",
+        "dress",
+        "girl",
+        "living room",
+        "pant",
+        "pants",
+        "room",
+        "sleepwear",
+        "stand",
+        "sweater",
+        "woman"
+    ],
+    "fashion20.png": [
+        " trench coat",
+        "beverage",
+        "coat",
+        "drink",
+        "gray",
+        "person",
+        "man",
+        "poster",
+        "stand",
+        "woman"
+    ],
+    "fashion21.png": [
+        " car",
+        "denim jacket",
+        "person",
+        "jeans",
+        "man",
+        "pole",
+        "selfie",
+        "stand",
+        "street corner",
+        "street sign"
+    ],
+    "fashion22.png": [
+        " baseball hat",
+        "boot",
+        "car",
+        "dress",
+        "girl",
+        "pavement",
+        "school uniform",
+        "short",
+        "sock",
+        "stand",
+        "wear",
+        "woman"
+    ],
+    "fashion23.jpg": [
+        " black",
+        "dress",
+        "hip",
+        "person",
+        "man",
+        "pocket",
+        "screenshot",
+        "selfie",
+        "shirt",
+        "waist",
+        "wear",
+        "woman"
+    ],
+    "fashion23.png": [
+        " website",
+        "pink",
+        "shirt",
+        "woman"
+    ],
+    "fashion24.png": [
+        " catch",
+        "website",
+        "jeans",
+        "shirt",
+        "woman"
+    ],
+    "fashion25.png": [
+        " doll",
+        "dress",
+        "girl",
+        "school uniform",
+        "screenshot",
+        "woman"
+    ],
+    "fashion26.png": [
+        " boy",
+        "building",
+        "person",
+        "man",
+        "screenshot",
+        "stand",
+        "sweatshirt"
+    ],
+    "fashion27.png": [
+        " doll",
+        "dress",
+        "garment",
+        "person",
+        "man",
+        "robe",
+        "screenshot"
+    ],
+    "fashion28.png": [
+        " crop top",
+        "denim jacket",
+        "girl",
+        "person",
+        "jacket",
+        "jeans",
+        "laugh",
+        "photo",
+        "pose",
+        "selfie",
+        "woman"
+    ],
+    "fashion29.png": [
+        " baseball hat",
+        "girl",
+        "person",
+        "man",
+        "photo",
+        "screenshot",
+        "selfie",
+        "stand",
+        "sweatshirt",
+        "wear",
+        "woman"
+    ],
+    "fashion31.png": [
+        " parking lot",
+        "pillar",
+        "crop top",
+        "girl",
+        "goggles",
+        "legging",
+        "pant",
+        "pants",
+        "parking",
+        "parking garage",
+        "peak",
+        "pose",
+        "stand",
+        "sunglasses",
+        "wear",
+        "white",
+        "woman"
+    ],
+    "fashion4.png": [
+        " dog",
+        "person",
+        "man",
+        "sock",
+        "squat",
+        "sweater",
+        "white"
+    ],
+    "food1.jpg": [
+        " bacon",
+        "bowl",
+        "chopstick",
+        "plate",
+        "egg",
+        "food",
+        "meat",
+        "noodle",
+        "onion",
+        "pasta",
+        "peak",
+        "seaweed",
+        "spaghetti",
+        "spinach",
+        "vegetable",
+        "yolk"
+    ],
+    "food10.jpg": [
+        " bread",
+        "cake",
+        "chocolate cake",
+        "food",
+        "image",
+        "oven",
+        "pastry",
+        "pie",
+        "tray"
+    ],
+    "food11.jpg": [
+        " asparagus",
+        "bacon",
+        "bean",
+        "cook",
+        "plate",
+        "fish",
+        "food",
+        "fork",
+        "frying pan",
+        "grill",
+        "kitchenware",
+        "meat",
+        "pan",
+        "pork",
+        "spatula",
+        "tong",
+        "utensil",
+        "vegetable",
+        "wok"
+    ],
+    "food12.jpg": [
+        " bite",
+        "food",
+        "person",
+        "woman"
+    ],
+    "food14.jpg": [
+        " bulletin board",
+        "chip",
+        "slaw",
+        "condiment",
+        "plate",
+        "food",
+        "meat",
+        "platter",
+        "rib",
+        "steak",
+        "tray"
+    ],
+    "food15.jpg": [
+        " bowl",
+        "chopstick",
+        "plate",
+        "food",
+        "noodle",
+        "soup"
+    ],
+    "food16.jpg": [
+        " plate",
+        "food",
+        "image",
+        "website",
+        "screenshot",
+        "soup"
+    ],
+    "food17.jpg": [
+        " plate",
+        "food",
+        "grape",
+        "green",
+        "white"
+    ],
+    "food2.jpg": [
+        " computer screen",
+        "table",
+        "plate",
+        "food",
+        "grill",
+        "person",
+        "man"
+    ],
+    "food20.jpg": [
+        " bowl",
+        "broth",
+        "plate",
+        "food",
+        "meat",
+        "soup",
+        "stew"
+    ],
+    "food23.jpg": [
+        " food",
+        "image",
+        "website",
+        "screenshot"
+    ],
+    "food24.jpg": [
+        " food",
+        "fry",
+        "text message"
+    ],
+    "food25.jpg": [
+        " chopstick",
+        "container",
+        "food",
+        "seafood",
+        "sushi",
+        "tray"
+    ],
+    "food3.jpg": [
+        " bite",
+        "bread",
+        "catch",
+        "hand",
+        "food",
+        "person",
+        "pastry",
+        "sandwich"
+    ],
+    "food3.png": [
+        " plate",
+        "food",
+        "website"
+    ],
+    "food36.png": [
+        " chicken",
+        "chicken wing",
+        "food",
+        "fried chicken",
+        "fry"
+    ],
+    "food50.png": [
+        " food",
+        "granola",
+        "muffin",
+        "oatmeal",
+        "oats",
+        "pastry",
+        "raisin"
+    ],
+    "food51.jpg": [
+        " bell pepper",
+        "box",
+        "container",
+        "food",
+        "fruit",
+        "glass house",
+        "image",
+        "pepper",
+        "photo",
+        "picture",
+        "produce",
+        "screenshot",
+        "vegetable"
+    ],
+    "food52.jpg": [
+        " bowl",
+        "table",
+        "plate",
+        "fill",
+        "food",
+        "meal",
+        "platter",
+        "seafood",
+        "tray"
+    ],
+    "food53.png": [
+        " bulletin board",
+        "computer screen",
+        "container",
+        "cuisine",
+        "plate",
+        "food",
+        "website",
+        "meal",
+        "menu",
+        "tray"
+    ],
+    "food54.png": [
+        " food",
+        "hamburger",
+        "website",
+        "screenshot"
+    ],
+    "food55.png": [
+        " container",
+        "cuisine",
+        "table",
+        "plate",
+        "fill",
+        "food",
+        "platter",
+        "screenshot",
+        "tray"
+    ],
+    "food6.jpg": [
+        " burrito",
+        "plate",
+        "food",
+        "meat",
+        "pastry",
+        "platter",
+        "tray",
+        "wrap"
+    ],
+    "food7.jpg": [
+        " chopstick",
+        "cuisine",
+        "table",
+        "plate",
+        "fish",
+        "food",
+        "grain",
+        "lemon",
+        "platter",
+        "rice",
+        "seafood",
+        "shrimp",
+        "tray",
+        "vegetable"
+    ],
+    "food8.jpg": [
+        " smartphone",
+        "plate",
+        "food",
+        "image",
+        "meat",
+        "soup",
+        "vegetable"
+    ],
+    "map1.png": [
+        " area",
+        "map",
+        "screenshot"
+    ],
+    "map10.png": [
+        " area",
+        "dashboard",
+        "image",
+        "map",
+        "screenshot"
+    ],
+    "map11.png": [
+        " area",
+        "dashboard",
+        "map",
+        "screenshot"
+    ],
+    "map12.png": [
+        " dashboard",
+        "image",
+        "map",
+        "screenshot"
+    ],
+    "map13.png": [
+        " area",
+        "map",
+        "screenshot"
+    ],
+    "map15.png": [
+        " area",
+        "city",
+        "map",
+        "screenshot"
+    ],
+    "map16.png": [
+        " area",
+        "city",
+        "map",
+        "mark",
+        "pin"
+    ],
+    "map17.png": [
+        " area",
+        "map",
+        "screenshot"
+    ],
+    "map18.png": [
+        " area",
+        "map",
+        "screenshot"
+    ],
+    "map19.png": [
+        " map",
+        "mountain",
+        "screenshot"
+    ],
+    "map2.png": [
+        " map",
+        "screenshot"
+    ],
+    "map20.png": [
+        " city",
+        "game",
+        "map",
+        "screenshot"
+    ],
+    "map21.png": [
+        " area",
+        "city",
+        "map"
+    ],
+    "map22.png": [
+        " area",
+        "city",
+        "map"
+    ],
+    "map4.png": [
+        " dumpling",
+        "food",
+        "website",
+        "map",
+        "screenshot"
+    ],
+    "map5.png": [
+        " smartphone",
+        "image",
+        "map",
+        "phone",
+        "screen",
+        "screenshot"
+    ],
+    "map51.png": [
+        " computer screen",
+        "dashboard",
+        "image",
+        "website",
+        "map",
+        "screenshot"
+    ],
+    "map52.png": [
+        " website",
+        "map",
+        "screenshot"
+    ],
+    "map53.png": [
+        " image",
+        "website",
+        "map",
+        "screenshot"
+    ],
+    "map54.png": [
+        " website",
+        "ipad",
+        "screenshot"
+    ],
+    "map55.png": [
+        " map",
+        "park",
+        "screenshot",
+        "sign",
+        "signage"
+    ],
+    "map6.png": [
+        " app",
+        "smartphone",
+        "map",
+        "screen",
+        "screenshot"
+    ],
+    "map7.jpg": [
+        " app",
+        "smartphone",
+        "image",
+        "map",
+        "screenshot",
+        "text message"
+    ],
+    "map8.jpg": [
+        " smartphone",
+        "image",
+        "map",
+        "screenshot"
+    ],
+    "map9.jpg": [
+        " map",
+        "screenshot"
+    ]
+}
